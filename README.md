@@ -3,6 +3,8 @@
 
 (m-STAR) Spatial Multiparametric Spatio Temporal AutoRegressive Regression: Spatial Durbin Panel Models Use spmstardxt With STATA 19
 
+https://www.youtube.com/watch?v=vbaj7eAWOA4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
